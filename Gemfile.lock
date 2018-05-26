@@ -51,6 +51,7 @@ PLATFORMS
 DEPENDENCIES
   grape
   pg
+  rack
   sequel
 
 BUNDLED WITH
